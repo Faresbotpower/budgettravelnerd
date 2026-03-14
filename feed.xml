@@ -5,8 +5,15 @@
     <link>https://budgettravelnerd.com</link>
     <description>Latest articles and reviews from BudgetTravelNerd</description>
     <language>en-us</language>
-    <lastBuildDate>2026-03-13</lastBuildDate>
+    <lastBuildDate>2026-03-14</lastBuildDate>
     <atom:link href="https://budgettravelnerd.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 Best Travel Pillows in 2026 (Tested and Reviewed)</title>
+      <link>https://budgettravelnerd.com/reviews/best-travel-pillows-review.html</link>
+      <description>After testing dozens of travel pillows on countless flights, trains, and car rides, we've found that the right travel pillow can make the difference...</description>
+      <pubDate>2026-03-14</pubDate>
+      <guid>https://budgettravelnerd.com/reviews/best-travel-pillows-review.html</guid>
+    </item>
     <item>
       <title>7 Best Travel Insurance Companies in 2026 (Tested and Reviewed)</title>
       <link>https://budgettravelnerd.com/reviews/best-travel-insurance-companies-review.html</link>
@@ -57,6 +64,13 @@
       <guid>https://budgettravelnerd.com/reviews/best-carry-on-luggage-review.html</guid>
     </item>
     <item>
+      <title>How to Travel Solo for the First Time: Your Complete Guide to Safe and Memorable Adventures</title>
+      <link>https://budgettravelnerd.com/articles/how-to-travel-solo-for-the-first-time.html</link>
+      <description>Standing at the airport gate with your boarding pass in hand, heart racing with excitement and nerves, you're about to embark on your very first solo...</description>
+      <pubDate>2026-03-14</pubDate>
+      <guid>https://budgettravelnerd.com/articles/how-to-travel-solo-for-the-first-time.html</guid>
+    </item>
+    <item>
       <title>How to Stay Safe While Traveling Abroad: Your Complete Guide to International Travel Security</title>
       <link>https://budgettravelnerd.com/articles/how-to-stay-safe-while-traveling-abroad.html</link>
       <description>Picture this: you're standing in a bustling foreign marketplace, surrounded by unfamiliar sights, sounds, and smells. The excitement of exploring a new...</description>
@@ -83,6 +97,13 @@
       <description>Imagine booking a first-class ticket from New York to Tokyo for $300, or snagging a round-trip flight to Europe for less than $150. While this might sound...</description>
       <pubDate>2026-03-13</pubDate>
       <guid>https://budgettravelnerd.com/articles/how-to-find-mistake-fare-flights.html</guid>
+    </item>
+    <item>
+      <title>How to Eat Alone While Traveling Without Feeling Awkward: A Complete Guide to Solo Dining Confidence</title>
+      <link>https://budgettravelnerd.com/articles/how-to-eat-alone-while-traveling-without-feeling-awkward.html</link>
+      <description>Picture this: You've just arrived in a stunning new city, your stomach is growling, and you're standing outside a restaurant that's been on your must-try...</description>
+      <pubDate>2026-03-14</pubDate>
+      <guid>https://budgettravelnerd.com/articles/how-to-eat-alone-while-traveling-without-feeling-awkward.html</guid>
     </item>
     <item>
       <title>How to Deal with Jet Lag Naturally: A Complete Guide to Beating Time Zone Changes</title>
@@ -125,27 +146,6 @@
       <description>Picture this: you're cruising down the highway, windows down, favorite playlist pumping, when suddenly hunger strikes. Your first instinct might be to...</description>
       <pubDate>2026-03-12</pubDate>
       <guid>https://budgettravelnerd.com/articles/best-road-trip-snacks-that-are-healthy.html</guid>
-    </item>
-    <item>
-      <title>Best Off Season Travel Destinations: Save Money and Avoid Crowds on Your Next Adventure</title>
-      <link>https://budgettravelnerd.com/articles/best-off-season-travel-destinations.html</link>
-      <description>Picture this: you're standing on a pristine beach in the Maldives, crystal-clear waters stretching endlessly before you, and there's barely another soul...</description>
-      <pubDate>2026-03-11</pubDate>
-      <guid>https://budgettravelnerd.com/articles/best-off-season-travel-destinations.html</guid>
-    </item>
-    <item>
-      <title>Best Family Vacation Spots on a Budget: Unforgettable Adventures Without Breaking the Bank</title>
-      <link>https://budgettravelnerd.com/articles/best-family-vacation-spots-on-a-budget.html</link>
-      <description>Planning a family vacation can feel like navigating a financial minefield. Between transportation costs, accommodation fees, dining expenses, and activity...</description>
-      <pubDate>2026-03-11</pubDate>
-      <guid>https://budgettravelnerd.com/articles/best-family-vacation-spots-on-a-budget.html</guid>
-    </item>
-    <item>
-      <title>Best Destinations for Solo Female Travelers: Your Ultimate Guide to Safe and Empowering Adventures</title>
-      <link>https://budgettravelnerd.com/articles/best-destinations-for-solo-female-travelers.html</link>
-      <description>Solo female travel has experienced an unprecedented surge in recent years, with research from Booking.com showing that 72% of American women have taken a...</description>
-      <pubDate>2026-03-12</pubDate>
-      <guid>https://budgettravelnerd.com/articles/best-destinations-for-solo-female-travelers.html</guid>
     </item>
   </channel>
 </rss>
